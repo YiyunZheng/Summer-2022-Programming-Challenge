@@ -22,6 +22,7 @@ Yiyun Zheng
 
 3. [vis.png](vis.png): A png file shows how the sentiment of articles on the website changes over time. Positive score means positive sentiment.
 
+
 ## Summary
 Most of the articles show a negative sentiment. This result is not entirely accurate, but it does reflect the relative sentiment among articles. Articles with a negative sentiment score of around 0.99 were significantly more violent, negative words and descriptions than other articles. Some articles with a neutral theme are also classified as negative with low score, which I think is because they like to add some description of the local situation at the end, which is usually negative.
 
