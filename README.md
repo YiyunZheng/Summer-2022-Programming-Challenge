@@ -12,15 +12,13 @@ Yiyun Zheng
 	3. Sentiment analysis using FLAIR
 	4. Data visualization
 
-2. [data.json](data.json): A json file that save the basic data and complete content of the article. Each element in list represent a article, and there are 8 attributes for each article:
+2. [data.json](data.json): A json file that save the basic data and full content of the article. Each element in list represent a article, and there are 6 attributes for each article:
 	* title
 	* excerpt
 	* img: url of cover image
 	* publish_date
 	* article: url of article content
 	* full_content: content of article
-	* sentiment: positive or negative
-	* score: sentiment score
 
 3. [vis.png](vis.png): A png file shows how the sentiment of articles on the website changes over time. Positive score means positive sentiment.
 
